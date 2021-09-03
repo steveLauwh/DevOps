@@ -17,7 +17,7 @@
 出现DevOps（Development和Operations两个词的组合）。它的英文发音是 /de'vɒps/，类似于“迪沃普斯”。
 
 DevOps是一组过程、方法与系统的统称，不是某一个特定软件、工具或平台。
-![image](https://user-images.githubusercontent.com/7018329/132042303-65dda019-d5f4-4c2e-86f4-3046d19add11.png)
+![image](https://user-images.githubusercontent.com/7018329/132047066-35827fce-24f1-479f-98e6-3ec80f87f605.png)
 
 对比瀑布式开发和敏捷开发，DevOps贯穿了软件全生命周期。
 ![image](https://user-images.githubusercontent.com/7018329/132043061-dad8aabc-c7e0-4537-b833-49e437c88039.png)

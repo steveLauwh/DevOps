@@ -1,5 +1,11 @@
 ## Periodic Table of DevOps Tools
 
-[XebiaLabs(Digital.ai)](https://digital.ai/periodic-table-of-devops-tools#rd)：是DevOps和持续交付软件工具供应商，通过其DevOps平台推出了用于软件版本发布的监管、安全和合规风险评估跟踪功能。
+[XebiaLabs(Digital.ai)](https://digital.ai/periodic-table-of-devops-tools#rd)：制作DevOps工具周期表，用于在整个软件交付生命周期中确定同类最佳工具。
+
+V4.2版本分为17大类别：
+
+### 1、AIOps/Analytics
+
+
 
 

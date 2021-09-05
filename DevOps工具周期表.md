@@ -5,6 +5,32 @@
 V4.2版本分为17大类别：
 
 ### 1、AIOps/Analytics
+* Instana
+* Datadog
+* Splunk
+* AppDynamics
+* Dynatrace
+* New Relic
+* Grafana
+* Elastic ELK Stack
+
+### Artifact/Package Management
+* JFrog Artifactory
+* Sonatype Nexus
+* Docker Hub
+* npm
+* Yarn
+* NuGet
+
+### Cloud
+* AWS
+* Azure
+* Google Cloud
+* IBM Cloud
+* OpenStack
+
+
+
 
 
 

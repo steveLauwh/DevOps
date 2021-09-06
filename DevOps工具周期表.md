@@ -4,7 +4,7 @@
 
 V4.2版本分为17大类别：
 
-### 1、AIOps/Analytics
+### 1、AIOps/Analytics 分析
 * Instana
 * Datadog
 * Splunk
@@ -14,7 +14,7 @@ V4.2版本分为17大类别：
 * Grafana
 * Elastic ELK Stack
 
-### Artifact/Package Management
+### 2、Artifact/Package Management 制品库管理
 * JFrog Artifactory
 * Sonatype Nexus
 * Docker Hub
@@ -22,21 +22,21 @@ V4.2版本分为17大类别：
 * Yarn
 * NuGet
 
-### Cloud
+### 3、Cloud 云
 * AWS
 * Azure
 * Google Cloud
 * IBM Cloud
 * OpenStack
 
-### Collaboration
+### 4、Collaboration 协作
 * Slack
 * Microsoft Teams
 * Atlassian Confluence
 * Stack Overflow
 * Mattermost
 
-### Configuration Automation
+### 5、Configuration Automation 配置信息
 * Red Hat Ansible
 * Chef
 * Puppet
@@ -47,7 +47,7 @@ V4.2版本分为17大类别：
 * HashiCorp Vagrant
 * HashiCorp Packer
 
-### Containers
+### 6、Containers 容器
 * Docker
 * Red Hat OpenShift
 * Kubernetes
@@ -59,7 +59,7 @@ V4.2版本分为17大类别：
 * Google GKE
 * Helm
 
-### Continuous Integration
+### 7、Continuous Integration 持续集成
 * Jenkins
 * Azure DevOps Code
 * GitLab CI
@@ -70,14 +70,14 @@ V4.2版本分为17大类别：
 * Gradle
 * AWS CodeBuild
 
-### Database Management
+### 8、Database Management 数据库管理
 * Liquibase
 * Delphix
 * IDERA
 * Quest Toad
 * DBmaestro
 
-### Deployment
+### 9、Deployment 部署
 * Azure DevOps Pipelines
 * Digital.ai Deploy
 * UrbanCode Deploy
@@ -87,14 +87,14 @@ V4.2版本分为17大类别：
 * CloudBees Flow
 * AWS CodeDeploy
 
-### Enterprise Agile Planning
+### 10、Enterprise Agile Planning 企业敏捷规划
 * Atlassian Jira Align
 * Digial.ai Agility
 * Planview
 * Broadcom Rally
 * Targetprocess
 
-### Issue Tracking/ITSM
+### 11、Issue Tracking/ITSM  问题跟踪
 * Atlassian Jira
 * BMC Helix ITSM
 * Atlassian Trello
@@ -102,14 +102,14 @@ V4.2版本分为17大类别：
 * TOPdesk
 * PagerDuty
 
-### Release Management
+### 12、Release Management 发布管理
 * Digital.ai Release
 * AWS CodePipeline
 * CloudBees Flow
 * BMC RLM
 * UrbanCode Release
 
-### Security
+### 13、Security 安全
 * OWASP ZAP
 * Digital.ai App Protect
 * Sonatype Nexus IQ
@@ -124,14 +124,14 @@ V4.2版本分为17大类别：
 * Snort
 * PortSwigger Burp Suite
 
-### Serverless/PaaS
+### 14、Serverless/PaaS 平台即服务
 * AWS Lambda
 * Azure Functions
 * Heroku
 * Google Firebase
 * Cloud Foundry
 
-### Source Control Management
+### 15、Source Control Management 源码控制管理
 * Git
 * GitHub
 * GitLab SCM
@@ -139,7 +139,7 @@ V4.2版本分为17大类别：
 * Compuware ISPW
 * Subversion
 
-### Testing
+### 16、Testing 测试
 * Tricentis Tosca
 * Neotys NeoLoad
 * Selenium
@@ -152,8 +152,10 @@ V4.2版本分为17大类别：
 * JMeter
 * Parasoft
 
-### Value Stream Management
+### 17、Value Stream Management 价值流管理
 * Digital.ai
 * Tasktop
 * Plutora
 * GitLab
+
+<font color=gray size=72>color=gray</font>

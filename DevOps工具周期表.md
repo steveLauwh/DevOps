@@ -158,4 +158,3 @@ V4.2版本分为17大类别：
 * Plutora
 * GitLab
 
-<font color=gray size=72>color=gray</font>
